@@ -124,3 +124,5 @@ brew doctor
 uname
 brew update
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+
+git changes
